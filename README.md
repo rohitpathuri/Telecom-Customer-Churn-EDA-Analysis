@@ -6,6 +6,7 @@
 This project analyzes customer churn behavior in a telecom company using exploratory data analysis and visualization techniques. The objective is to identify key factors influencing customer churn and provide actionable insights to improve customer retention strategies.
 
 
+
 🎯 Project Objective
 
 To analyze churn patterns based on:
@@ -21,6 +22,7 @@ Internet Service Type
 Demographic Attributes (Senior Citizens)
 
 The goal is to determine which factors have the strongest association with churn and recommend data-driven retention strategies.
+
 
 
 🔍 Key Insights
@@ -70,6 +72,7 @@ Non-seniors: 26% churn.
 → Targeted retention programs required for senior segment.
 
 
+
 📈 Visualizations Used
 
 Bar charts for churn comparison across categories
@@ -77,6 +80,7 @@ Bar charts for churn comparison across categories
 Line graphs showing tenure vs churn trend
 
 Percentage distribution analysis for key churn drivers
+
 
 
 💡 Recommendations
@@ -90,6 +94,7 @@ Focus retention efforts within the first year of customer lifecycle.
 Develop special engagement programs for senior citizens.
 
 Improve service quality monitoring for fiber optic users.
+
 
 
 🛠️ Skills & Concepts Applied
